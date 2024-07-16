@@ -1,6 +1,5 @@
 # Project 3: 007
 
-![License](https://img.shields.io/badge/License-None-brightgreen.svg)
 
 ## Description
 
@@ -8,14 +7,12 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [Application Screenshot](#installation)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Installation
+## Application Screenshot
 
 application screenshot 
 
