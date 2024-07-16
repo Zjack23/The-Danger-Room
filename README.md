@@ -18,7 +18,8 @@ application screenshot
 
 ## Contributing
 
-Roxie, Steve, 
+[Roxie](https://github.com/RoxD90) 
+[Steve](https://github.com/stevelomax1) 
 [Zavier](https://github.com/zjack23)
 
 ## Questions
