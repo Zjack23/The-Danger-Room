@@ -9,7 +9,6 @@
 
 - [Application Screenshot](#Screenshot)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Screenshot
