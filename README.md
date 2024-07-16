@@ -7,12 +7,12 @@
 
 ## Table of Contents
 
-- [Application Screenshot](#ApplicationScreenshot)
+- [Application Screenshot](#Screenshot)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Application Screenshot
+## Screenshot
 
 application screenshot 
 
