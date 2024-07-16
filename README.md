@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-- [Application Screenshot](#installation)
+- [Application Screenshot](#ApplicationScreenshot)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
