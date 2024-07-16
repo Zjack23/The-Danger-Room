@@ -16,25 +16,13 @@
 
 application screenshot 
 
-## Usage
-
-N/A
-
-## License
-
-This project is licensed under the [None](https://opensource.org/licenses/None) license.
-
 ## Contributing
 
-Roxie, Steve, Zavier
-
-## Tests
-
-N/A
+Roxie, Steve, 
+[Zavier](https://github.com/zjack23)
 
 ## Questions
 
 For any questions, please reach out via:
 
 - GitHub: [zjack23](https://github.com/zjack23)
-- Email: [N/A](mailto:N/A)
